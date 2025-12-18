@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Hi, I'm Xingxing Song
 
-<!--
-**xingxing-dev/xingxing-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate student (Year 2) majoring in Artificial Intelligence  
+🏫 School of Computer Science, Beijing Jiaotong University  
 
-Here are some ideas to get you started:
+💻 Beginner learner who loves technology and coding  
+🌱 Currently building solid foundations in computer science  
+🚀 Aspiring to work in a top tech company in the future  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 About Me
+- Major: Artificial Intelligence
+- Background: Computer Science
+- Status: Undergraduate student (Sophomore)
+- Mindset: Idealistic, curious, and serious about learning
+
+I believe technology can genuinely change the world,  
+and I hope to grow into an engineer who creates meaningful systems.
+
+---
+
+### 🔧 Skills (Learning)
+- Python
+- C / C++
+- Data Structures & Algorithms
+- Git & GitHub
+
+---
+
+### 🎯 Current Focus
+- Data Structure coursework and practice
+- Strengthening programming fundamentals
+- Learning how real-world software is built
+
+---
+
+### 📌 Goals
+- Build solid CS foundations
+- Accumulate meaningful projects
+- Prepare for internships and big tech opportunities
+
+---
+
+### 📫 Contact
+- GitHub: @xingxing-dev
